@@ -12,7 +12,7 @@ body {
 }
 
 .background {
-  background: url(https://wallpaperaccess.com/full/2559579.jpg) no-repeat center;
+  background: url('images/bg.jpeg') no-repeat center;
   background-size: cover;
   position: absolute;
   top: -30px;
